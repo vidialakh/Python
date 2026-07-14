@@ -1,0 +1,10 @@
+David = "13th, March 2011"
+Sam = "15th, June 2011"
+John = "27th, November 2010"
+Jack = "4th, May 2011"
+James = "10th, December 2010"
+print("David's Birthday is on", David)
+print("Sam's Birthday is on", Sam)
+print("John's Birthday is on", John)
+print("Jack's Birthday is on", Jack)
+print("James's Birthday is on", James)
